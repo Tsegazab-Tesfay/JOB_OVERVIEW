@@ -18,7 +18,6 @@ class update:
                 print(dataframe.tail(1))
             print(">>>"*10)
             
-            
             for num, col in enumerate(dataframe.columns):
                 user_input : str = input(f"Enter {col}: ")
                 if user_input == "DropLastRow":
