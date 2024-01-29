@@ -1,11 +1,11 @@
 Company_name,Cover_letter,Type,Resume,Date,Place,Announcement_found,Attest_added
-ASKO Servering,written-text,Forretningsanalytiker,CV_Tsegasab_Tesfay.pdf,28-08-2023,Vestby,finn.no,Nei
-Aften posten,written-text,Data Analyst,CV_Tsegasab_Tesfay.pdf,25-08-2023,Oslo,finn.no,Nei
-Brønnøysundregistrene,Written-text,Data Science,CV_Tsegasab_Tesfay.pdf,15-08-2023,Brønnøysund,finn.no,Nei
-Element Logic,Written-text,Data Scientist,Søknad_Tsegazab_Tesfay_.pdf,31-08-2023,Oslo,finn.no,Yes
-Helse Vest IKT,Helse_Vest_IKT_Søknad_Tsegazab_Tesfay.pdf,Data Science,CV_Tsegasab_Tesfay.pdf,07-09-2023,Bergen,finn.no,Nei
-Coop Norge SA,written text,Data Scientist,CV_Tsegazab_TEsfay,11-09-2023,Oslo,finn.no,Nei
-Norwegian Bank,Bank_Norwegian_Søknad_Tsegazab_Tesfay.pdf,Data Scientist,CV_Tsegazab_Tesfay.pdf,11-09-2023,Oslo,finn.no,Nei
+ASKO Servering,written-text,Forretningsanalytiker,yes,28-08-2023,Vestby,finn.no,Nei
+Aften posten,written-text,Data Analyst,yes,25-08-2023,Oslo,finn.no,Nei
+Brønnøysundregistrene,Written-text,Data Science,yes,15-08-2023,Brønnøysund,finn.no,Nei
+Element Logic,Written-text,Data Scientist,yes,31-08-2023,Oslo,finn.no,Yes
+Helse Vest IKT,Helse_Vest_IKT_Søknad_Tsegazab_Tesfay.pdf,Data Science,yes,07-09-2023,Bergen,finn.no,Nei
+Coop Norge SA,written text,Data Scientist,yes,11-09-2023,Oslo,finn.no,Nei
+Norwegian Bank,Bank_Norwegian_Søknad_Tsegazab_Tesfay.pdf,Data Scientist,yes,11-09-2023,Oslo,finn.no,Nei
 Tripletex AS,written,Data Analytics Engineer,yes,-,Oslo,finn.no,-
 Capgemini Norge As,yes,data,yes,Aug,Oslo,arbeidsplassen.no,no
 Visma Enterprise AS,yes,Data Analyst,yes,,Oslo,finn.no,no
