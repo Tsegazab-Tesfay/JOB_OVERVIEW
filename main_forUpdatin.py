@@ -7,7 +7,7 @@ from datetime import datetime
 class update:
     def __init__(self, filepath: str)-> None:
         self.filepath = filepath
-        self.dict_ = {'Company_name': [], 'Cover_letter': [], 'Type':[], 'Resume':[], 'Date':[], 'Place':[], 'Announcement_found':[], 'Attest_added' : []}
+        self.dict_ = {'Company_name': [], 'Cover_letter': [], 'Type':[], 'Resume':[],  'Place':[], 'Announcement_found':[], 'Attest_added' : []}
 
     def updating(self):
         try:
